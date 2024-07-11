@@ -1,12 +1,11 @@
-![starbucks_logo_icon_181356.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf8fc2f2-8a83-409e-a156-5a8a2b80c01e/03429a33-a0e7-449c-aa08-986f662c8e00/starbucks_logo_icon_181356.webp)
 
 ## **주요 내용**
 
 Coffee + Order의 합성어로 어느 카페에서나 자리를 확인 할 수 있고,  음료를 예약 주문 할 수 있는 어플리케이션 입니다.
 
-![스크린샷 2024-07-11 122441.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf8fc2f2-8a83-409e-a156-5a8a2b80c01e/3480e4ef-7743-49d1-a250-e189c22643cb/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-07-11_122441.png)
+![스크린샷 2024-07-11 122456](https://github.com/KIPUMP/coffee_order_APP/assets/86760876/e685c24d-f11f-461b-af17-5f42bc3ca25b)
+![스크린샷 2024-07-11 122441](https://github.com/KIPUMP/coffee_order_APP/assets/86760876/6d26945d-4acd-4886-8de7-adce0e0f6d86)
 
-![스크린샷 2024-07-11 122456.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf8fc2f2-8a83-409e-a156-5a8a2b80c01e/22a71ce0-05ee-429c-928f-d416e1525a94/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-07-11_122456.png)
 
 ## **담당 업무**
 
@@ -14,13 +13,13 @@ Coffee + Order의 합성어로 어느 카페에서나 자리를 확인 할 수 �
 
 ### usecase diagram
 
-![스크린샷 2024-07-11 122629.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf8fc2f2-8a83-409e-a156-5a8a2b80c01e/586e095c-5455-43a6-8a10-a9fbc96e30aa/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-07-11_122629.png)
+![스크린샷 2024-07-11 122629](https://github.com/KIPUMP/coffee_order_APP/assets/86760876/a8b825a5-0cca-4432-b438-524b486325f1)
 
 ### Database modeling
+![스크린샷 2024-07-11 122720](https://github.com/KIPUMP/coffee_order_APP/assets/86760876/1def2cf1-6c0e-4c23-afc9-330f07a793ec)
 
-![스크린샷 2024-07-11 122720.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf8fc2f2-8a83-409e-a156-5a8a2b80c01e/08385b7f-d9e0-4572-97e3-c9cc60537361/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-07-11_122720.png)
+![스크린샷 2024-07-11 122725](https://github.com/KIPUMP/coffee_order_APP/assets/86760876/a42e2901-7f74-41fb-be01-25db49c019d5)
 
-![스크린샷 2024-07-11 122725.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf8fc2f2-8a83-409e-a156-5a8a2b80c01e/b16c3b11-aa33-452c-a7a8-b6560fe2339d/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-07-11_122725.png)
 
 ## **사용 기술**
 
