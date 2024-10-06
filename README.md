@@ -23,7 +23,7 @@ Coffee + Order의 합성어로 어느 카페에서나 자리를 확인 할 수 �
 
 ## **사용 기술**
 
- Android studio | Firebase | Github | Jira
+ Android studio | Firebase | Github | Jira | Kotlin
 
 ## 개선 사항
 
